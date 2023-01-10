@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 But we also want to add text here in master branch file1.txt
+=======
+But we also want to add some text in the branch 'test'
+>>>>>>> test
